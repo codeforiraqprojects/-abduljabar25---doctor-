@@ -1,2 +1,1 @@
-#  abduljabar25 / doctor 
- 
+# doctor
